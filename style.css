@@ -1,0 +1,181 @@
+.gus-promotion-wrapper,ul,li{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+
+}
+ul{
+    padding-left: 80px;
+    padding-top: 10px;
+
+}
+
+.z1{
+    padding: 7px;
+    padding-left:30px;
+    box-shadow: 2px 3px 4px;
+  text-align: center;
+}
+li:hover{
+    background-color: rgba(20, 17, 17, 0.507);
+}
+a{
+    padding-left: 30px;
+}
+.z1:hover{
+    color: rgb(255, 255, 255);
+}
+.b1{
+    position: relative;
+    top: 40px;
+    padding-left: 250px;
+    border-radius: 10px;
+
+}
+.b2{
+    position: relative;
+    left: 900px;
+    top: -487px;
+    width: 25%;
+    height: 200px;
+    border-radius: 10px;
+
+
+}
+.a2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.zz2{
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    background-color: rgba(240, 105, 16, 0.945);
+  
+}
+ .avatar-icon-wrapper{
+    width: 10%;
+    height: 50%;
+   
+} 
+.avatar-icon{
+    position:absolute;
+    top: 300px;
+    width: 4%;
+    border:1px solid rgb(8, 8, 8); 
+    padding-bottom: 90px;
+    background-color: rgb(71, 238, 5);
+    border-radius: 0px 30px 0px;
+
+}
+.b1:hover{
+    width: 62%;
+}
+.b2:hover{
+    width: 26%;
+}
+.b3:hover{
+    width: 14%;
+}
+
+.ary{
+    position:absolute;
+    left: 30px;
+    top: 390px;
+    width: 4%;
+    background-color: rgba(0, 0, 0, 0.014);
+}
+header{
+    background-color: aliceblue;
+  
+}
+.nav-bar{
+    position:static;
+    z-index: 1;
+    width: 100%;
+    margin-top: -15px;
+   
+}
+.banner{
+    background-color: rgb(243, 219, 3);
+    width: 43.1%;
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+h4{
+    color: white;
+    padding: 10px;
+}
+.za{
+    position: relative;
+    left: 565px;
+    top: -287px;
+    width: 25%;
+    flex-wrap: wrap;
+}
+.b3{
+    position: relative;
+    left: 900px;
+    top: -350px;
+    width: 13%;
+    height: 200px;
+    border-radius: 10px;
+}
+.za1{
+    position: relative;
+    left: 1070px;
+    top: -550px;
+    width: 13%;
+   
+}
+p{
+    padding-bottom: 40px;
+    padding: 10px;
+}
+.zz3{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(18, 224, 62, 0.801);
+    height: 200px;
+}
+.ary1{
+    width: 50%;
+  
+}
+.ary2{
+    width: 50%;
+}
+.ary3{
+    width: 50%;
+}
+.ary11{
+    width: 23%;
+    position: relative;
+    top: -600px;
+    left: 200px;
+    
+
+}
+.ary22{
+    width: 40%;
+    position: relative;
+    top: -750px;
+    left: 530px;
+}
+.ary33{
+    width: 50%;
+    position: relative;
+    top: -900px;
+    left: 900px;
+}
+.ary22:hover{
+    width: 45%;
+}
+.ary11:hover{
+    width: 24%;
+}
+
+
+
+
